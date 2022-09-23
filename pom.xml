@@ -37,13 +37,13 @@
        <repository>
 	      <id>nexus</id>
 	      <name>3rd-project-RELEASE</name>
-	      <url>http://3.98.124.26:8081/repository/3rd-project-RELEASE/</url>
+	      <url>http://3.98.124.26:8081/repository/Abdul.RELEASES/</url>
 	    </repository>
            
             <snapshotRepository>
 	      <id>nexus</id>
 	      <name>3rd-project-SNAPSHOT</name>
-	      <url>http://3.98.124.26:8081/repository/Abdul.SNAPSHOT/</url>
+	      <url>http://3.98.124.26:8081/repository/Abdul.SNAPSHOTS/</url>
 	    </snapshotRepository>
            
   
